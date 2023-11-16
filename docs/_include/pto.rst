@@ -86,6 +86,8 @@ recommended that hard-stops are implemented in a similar fashion using an
 Actuation Force/Torque PTO block in which the actuation force is specified in a 
 custom MATLAB Function block. 
 
+.. _pto-pto-extension:
+
 Setting PTO Extension
 """""""""""""""""""""
 The PTO Extension value can be specified to define the initial displacement of 
